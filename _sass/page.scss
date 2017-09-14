@@ -1,0 +1,12 @@
+@import "variables";
+
+.page-title {
+	background-color: $title-secondary;
+	padding: 0.5em 0em;
+	text-align: center;
+	@include font-heading-1;
+}
+
+.page-text {
+	padding: 0px 24px;
+}

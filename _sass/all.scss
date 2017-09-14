@@ -1,0 +1,16 @@
+@import "variables";
+@import "page";
+
+body {
+	background-color: $inverse-secondary;
+}
+
+#container {
+	margin: auto;
+	width: 100%;
+	max-width: 1024px;
+
+	background-color: $secondary;
+	color: $primary;
+	@include font-paragraph;
+}
