@@ -1,4 +1,10 @@
 <header>
-navbar
+<nav class="navbar">
+<ul>
+{% for p1 in site.data.navigation %}
+	<li><a href="{{ p1.url }}">{{ p1.title }}</a></li>
+{% endfor %}
+</ul>
+</nav>
 banner
 </header>

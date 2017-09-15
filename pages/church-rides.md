@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Church Rides
 permalink: /church-rides
 ---

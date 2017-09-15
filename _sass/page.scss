@@ -2,11 +2,14 @@
 
 .page-title {
 	background-color: $title-secondary;
-	padding: 0.5em 0em;
+	font-size: 1.5em;
+	padding: 0.4em 0;
 	text-align: center;
-	@include font-heading-1;
+	text-transform: uppercase;
 }
 
 .page-text {
-	padding: 0px 24px;
+	margin: auto;
+	width: 90%;
+	max-width: $page-text-width;
 }

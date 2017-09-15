@@ -8,12 +8,18 @@ $inverse-secondary: #4A687E;
 
 @mixin font-heading-1 {
 	font-family: 'Zilla Slab', serif;
+	font-weight: 500;
 }
 
 @mixin font-heading-2 {
 	font-family: 'Zilla Slab', serif;
+	font-style: italic;
+	font-weight: normal;
 }
 
 @mixin font-paragraph {
 	font-family: 'Lato', sans-serif;
+	font-weight: normal;
 }
+
+$page-text-width: 800px;

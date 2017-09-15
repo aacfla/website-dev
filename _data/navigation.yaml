@@ -1,0 +1,29 @@
+- title: Home
+  url: /
+
+- title: About
+  url: /about
+
+- title: Prayer
+  url: /prayer
+
+- title: Sermons
+  url: /sermons
+
+- title: Donate
+  url: /
+
+- title: Contact
+  url: /
+
+- title: Get Involved
+  url: /get-involved
+  children:
+    - title: Large Group
+      url: /large-group
+
+    - title: Church Rides
+      url: /church-rides
+
+    - title: Ministries
+      url: /ministries

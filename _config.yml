@@ -16,11 +16,18 @@
 title: AACF @ UCLA
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to AACF @ UCLA! Our vision this year as AACF at UCLA is to glorify and
-  love God by loving the campus through proclaiming the gospel, supporting the
-  church family, and equipping disciples of Christ.
+  Welcome to AACF at UCLA! Our vision this year is to glorify and love God by
+  loving the campus through proclaiming the gospel, supporting the church
+  family, and equipping disciples of Christ.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+defaults:
+  -
+    scope:
+      path: "*.md"
+    values:
+      layout: page
 
 # Build settings
 markdown: kramdown

@@ -1,5 +1,8 @@
 @import "variables";
-@import "page";
+
+html {
+	font-size: 120%;
+}
 
 body {
 	background-color: $inverse-secondary;
@@ -8,9 +11,43 @@ body {
 #container {
 	margin: auto;
 	width: 100%;
-	max-width: 1024px;
+	max-width: 1152px;
 
 	background-color: $secondary;
 	color: $primary;
 	@include font-paragraph;
 }
+
+.navbar {
+	background-color: $inverse-secondary;
+	color: $inverse-primary;
+	text-align: center;
+	text-transform: uppercase;
+	@include font-heading-1;
+
+	a, a:visited, a:hover, a:active {
+		color: inherit;
+		text-decoration: none;
+	}
+
+	ul {
+		display: inline-block;
+		margin: 0 0;
+		padding: 0.2em 0;
+
+		li {
+			display: inline-block;
+			padding: 0.2em 0.5em;
+		}
+	}
+}
+
+h1 {
+	@include font-heading-1;
+}
+
+main {
+	font-size: 130%;
+}
+
+@import "page";
