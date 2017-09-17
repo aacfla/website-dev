@@ -42,13 +42,33 @@ body {
 
 	ul {
 		display: inline-block;
+		list-style: none;
 		margin: 0;
 		padding: 0.2em 0;
 	}
 
 	li {
 		display: inline-block;
-		padding: 0.1em 0.5em;
+		padding: 0.15em 0.6em;
+		position: relative;
+	}
+
+	ul ul {
+		background-color: $inverse-secondary;
+		display: none;
+		position: absolute;
+		left: 0;
+		top: 100%;
+		width: 100%;
+	}
+
+	ul ul li {
+		display: block;
+		padding: 0.15em 0.3em;
+	}
+
+	li:hover > ul {
+		display: block;
 	}
 }
 
@@ -98,6 +118,7 @@ main {
 		display: flex;
 		flex-direction: column;
 
+		list-style: none;
 		margin: 0;
 		padding: 0;
 	}

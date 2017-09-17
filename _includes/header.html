@@ -2,7 +2,16 @@
 <nav class="navbar">
 <ul>
 {% for p1 in site.data.navigation %}
-	<li><a href="{{ p1.url }}">{{ p1.title }}</a></li>
+	<li>
+		<a href="{{ p1.url }}">{{ p1.title }}</a>
+		{% if p1.children %}
+		<ul>
+		{% for p2 in p1.children %}
+			<li><a href="{{ p2.url }}">{{ p2.title }}</a></li>
+		{% endfor %}
+		</ul>
+		{% endif %}
+	</li>
 {% endfor %}
 </ul>
 </nav>
