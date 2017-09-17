@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+title: Welcome to AACF @ UCLA!
 bare_title: true
 ---
 
@@ -17,8 +18,8 @@ Our vision this year is to **glorify and love God** by loving the campus through
 
 <div class="link-tile-list" markdown="1">
 
-* [Large Group](/large-group)
-* [Church Rides](/church-rides)
-* [Ministries](/ministries)
+* [<span class="link-tile-title">Large Group</span>](/large-group)
+* [<span class="link-tile-title">Church Rides</span>](/church-rides)
+* [<span class="link-tile-title">Ministries</span>](/ministries)
 
 </div>
