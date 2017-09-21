@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: AACF @ UCLA
-email: your-email@example.com
+email: bodylife@aacfla.org
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to AACF at UCLA! Our vision this year is to glorify and love God by
   loving the campus through proclaiming the gospel, supporting the church

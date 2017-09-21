@@ -1,4 +1,5 @@
 @import "variables";
+@import "svg-icons";
 
 html {
 	font-size: 120%;
@@ -70,6 +71,10 @@ body {
 	li:hover > ul {
 		display: block;
 	}
+}
+
+#banner-image {
+	width: 100%;
 }
 
 h1 {
@@ -172,4 +177,16 @@ main {
 	font-style: normal;
 	font-weight: normal;
 	text-transform: uppercase;
+}
+
+.footlinks {
+	background-color: $inverse-secondary;
+	padding: 0.5em;
+	text-align: center;
+
+	a {
+		display: block;
+		height: 100%;
+		width: 100%;
+	}
 }
