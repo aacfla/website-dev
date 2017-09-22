@@ -95,6 +95,15 @@ h1 {
 	margin-bottom: 0;
 }
 
+h2 {
+	@include font-heading-2;
+	margin-bottom: 0;
+}
+
+p {
+	margin-top: 0;
+}
+
 // Don't make text too large on phones
 main {
 	@media (min-width: $bp-tablet) {
