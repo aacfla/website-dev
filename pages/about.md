@@ -9,7 +9,10 @@ AACF stands for Asian American Christian Fellowship. Everyone of any ethnicity i
 
 The vision of AACF at UCLA is to glorify and love God by loving the campus through proclaiming the gospel, supporting the church family, and equipping disciples of Christ.
 
-## TODO Theme Verse
+## Theme Verse
+If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. Set your minds on things that are above, not on things that are on earth. For you have died, and your life is hidden with Christ in God. When Christ who is your life appears, then you also will appear with him in glory.
+
+Colossians 3:1--4 (ESV)
 
 ## Mission Statement
 
