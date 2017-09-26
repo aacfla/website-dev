@@ -10,7 +10,7 @@ If you're interested in attending a church and you need a ride, contact <churchr
 ## [Lighthouse Community Church](https://lighthousesouthbay.org/){: target="_blank"} (Torrance, CA)
 Contact Kelsey Kobayashi or Scott Kawakami
 
-Come check out Lighthouse's college ministry Beacon, which is held every Friday starting at 7pm! If you have committed to attending Lighthouse Church, we highly encourage you to consider becoming a member, especially before serving. If you are unable to attend the membership series this quarter, you can still serve in Children's Ministry---ask Crystal Hsieh for more info.
+Come check out Lighthouse's college ministry Beacon, which is held every Friday starting at 7pm! If you have committed to attending Lighthouse Church, we highly encourage you to consider becoming a member, especially before serving. If you are unable to attend the membership series this quarter, you can still serve in Children's Ministry---ask Davey Wong for more info.
 
 ## [Community Christian Alliance Church](http://www.ccalliance.com/){: target="_blank"} (Northridge, CA)
 Contact Amanda Sun or Joshua Cheung

@@ -11,6 +11,8 @@ bare_title: true
 
 Our vision this year is to **glorify and love God** by loving the campus through **proclaiming** the gospel, **supporting** the church family, and **equipping** disciples of Christ.
 
+Join us on our [Facebook group](https://www.facebook.com/groups/aacfla.17.18/){: target="_blank"}!
+
 </div>
 
 # Get Involved
