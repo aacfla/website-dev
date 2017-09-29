@@ -7,7 +7,10 @@ Large group is held on Wednesday nights, where everyone gathers for a time of mu
 
 ## Fall 2017
 
-Week 0 Large Group (Wednesday, 9/27) will be in Kerckhoff Grand Salon @ 7:00 pm. Also come join us for dinner at De Neve dining hall at 5:15 pm. You can meet us in De Neve Plaza for both of these events! We'll be holding AACF signs.
+When: Wednesdays at 7:00 pm
+Where: Kinsey Pavilion 1220B
+
+Additionally, join us for dinner @ 5:30 pm in De Neve dining hall!
 
 All our past sermons are [online](/sermons).
 
