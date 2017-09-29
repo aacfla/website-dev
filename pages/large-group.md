@@ -8,6 +8,7 @@ Large group is held on Wednesday nights, where everyone gathers for a time of mu
 ## Fall 2017
 
 When: Wednesdays at 7:00 pm
+
 Where: Kinsey Pavilion 1220B
 
 Additionally, join us for dinner @ 5:30 pm in De Neve dining hall!
