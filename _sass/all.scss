@@ -7,12 +7,12 @@ html {
 }
 
 body {
-	background-color: $inverse-secondary;
+	background-color: $secondary;
 }
 
 #container {
 	margin: 0 auto;
-	/*max-width: 1152px;*/
+	max-width: 1152px;
 
 	background-color: $secondary;
 	color: $inverse-secondary;
