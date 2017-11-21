@@ -82,6 +82,7 @@ h1 {
 	// Default to full-width dark background, light text
 	&:not(.plain-h1) {
 		background-color: $title-secondary;
+		color: $inverse-primary;
 		font-size: 1.2em;
 		font-weight: bold;
 		padding: 0.4em 0;
@@ -92,6 +93,7 @@ h1 {
 
 .no-margin-bottom {
 	margin-bottom: 0;
+	color: $inverse-primary;
 }
 
 h2 {
