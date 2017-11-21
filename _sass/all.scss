@@ -15,7 +15,7 @@ body {
 	max-width: 1152px;
 
 	background-color: $secondary;
-	color: $inverse-secondary;
+	color: $primary;
 	@include font-paragraph;
 }
 
@@ -78,12 +78,10 @@ body {
 
 h1 {
 	@include font-heading-1;
-	color: $inverse-secondary;
 
 	// Default to full-width dark background, light text
 	&:not(.plain-h1) {
 		background-color: $title-secondary;
-		color: $inverse-primary;
 		font-size: 1.2em;
 		font-weight: bold;
 		padding: 0.4em 0;
@@ -94,7 +92,6 @@ h1 {
 
 .no-margin-bottom {
 	margin-bottom: 0;
-	color: $inverse-primary;
 }
 
 h2 {
@@ -104,7 +101,6 @@ h2 {
 
 p {
 	margin-top: 0;
-	color: $inverse-secondary;
 }
 
 // Don't make text too large on phones
@@ -151,7 +147,7 @@ main {
 		}
 
 		&:nth-child(even) {
-			background-color: $box-secondary-1;
+			background-color: $box-secondary-2;
 		}
 	}
 
@@ -206,11 +202,9 @@ main {
 a {
 	text-decoration: none;
 	font-weight: bolder;
-	color: $inverse-secondary;
+	color: $box-secondary-1
 }
 
 a:hover {
-	color: $box-secondary-3;
+	color: $box-secondary-2
 }
-
-
