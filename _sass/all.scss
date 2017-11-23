@@ -149,7 +149,7 @@ main {
 		}
 
 		&:nth-child(even) {
-			background-color: $box-secondary-2;
+			background-color: $box-secondary-1;
 		}
 	}
 
@@ -204,9 +204,9 @@ main {
 a {
 	text-decoration: none;
 	font-weight: bolder;
-	color: $box-secondary-1
+	color: $inverse-secondary;
 }
 
 a:hover {
-	color: $box-secondary-2
+	color: $inverse-tertiary;
 }
