@@ -18,4 +18,4 @@ Contact Amanda Sun or Joshua Cheung
 You are welcome to check out our Friday night ministries AWANA (children's ministry) and Mustard Seed (middle school ministry). You can also serve as a student leader for Sojourners (college ministry). Church membership is also encouraged as you decide on committing to a ministry, but you are welcome to check out ministries as long as you need. Feel free to ask the rides coordinators or anyone currently serving for more info.
 
 ## [Immanuel Bible Church](https://ibcbible.org/){: target="_blank"} (Santa Monica, CA)
-Contact Rebekah Park
+Contact Mandi Ahn
