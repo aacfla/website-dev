@@ -3,7 +3,7 @@ title: Ride Planner Signup
 permalink: /ride-planner-test
 ---
 
-<form name="rides" action="#">
+<form name="rides" method="post" action="#">
 
 <div>
 <label for="email">Email</label>
