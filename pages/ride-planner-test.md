@@ -33,4 +33,4 @@ permalink: /ride-planner-test
 <input type="submit">
 </form>
 
-<script type="text/javascript" src="/assets/js/rides.js"></script>
+<script type="text/javascript" src="assets/js/rides.js"></script>
