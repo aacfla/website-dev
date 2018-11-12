@@ -13,5 +13,5 @@ document.forms["rides"].addEventListener("submit", function(event) {
           console.log(response);
         }
 
-        xhr.send(JSON.stringify({ name: fields["name"].value, email: fields["email"].value, requestType: "EDIT_RIDE_REQUEST" }));
+        xhr.send(JSON.stringify({ name: fields["name"].value, email: fields["email"].value, requestType: "ADD_RIDE_REQUEST" }));
 })
