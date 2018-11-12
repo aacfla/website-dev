@@ -13,5 +13,5 @@ document.forms["rides"].addEventListener("submit", function(event) {
           console.log(response);
         }
 
-        xhr.send(JSON.stringify({ name: fields["name"].value, email: fields["email"].value, requestType: "ADD_RIDE_REQUEST" }));
+        xhr.send(JSON.stringify({ name: fields["name"].value, email: fields["email"].value, year: fields["year"].value, phoneNumber: fields["phoneNumber"].value, church: fields["church"].value, canAttend: fields["attendance"].value, driver: fields["driver"].value, numSeats: fields["numSeats"].value, notes: fields["notes"].value, requestType: "ADD_RIDE_REQUEST" }));
 })

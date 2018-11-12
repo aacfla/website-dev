@@ -26,8 +26,43 @@ permalink: /ride-planner-test
 </div>
 
 <div>
-<label for="phone">Phone</label>
-<input type="tel" name="phone">
+<label for="phoneNumber">Phone</label>
+<input type="text" name="phoneNumber">
+</div>
+
+<div>
+<label for="church">Church</label>
+<select name="church">
+	<option value="CCAC">CCAC</option>
+	<option value="Lighthouse">Lighthouse</option>
+	<option value="IBC">IBC</option>
+</select>
+</div>
+
+<div>
+<label for="attendance">Can you attend this week?</label>
+<select name="attendance">
+	<option value="Yes">Yes</option>
+	<option value="No">No</option>
+</select>
+</div>
+
+<div>
+<label for="driver">Are you a driver?</label>
+<select name="driver">
+	<option value="Yes">Yes</option>
+	<option value="No">No</option>
+</select>
+</div>
+
+<div>
+<label for="numSeats">If yes, how many seats can you provide?</label>
+<input type="text" name="numSeats">
+</div>
+
+<div>
+<label for="notes">Any notes you would like to mention</label>
+<input type="text" name="notes">
 </div>
 
 <input type="submit">
