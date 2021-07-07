@@ -3,7 +3,7 @@ document.forms["rides"].addEventListener("submit", function(event) {
 	event.preventDefault();
 
 	let fields = document.forms["rides"].elements;
-        const url = "https://uh0b9pulpe.execute-api.us-west-1.amazonaws.com/prod/rides";
+        const url = "https://4t47gi8c3g.execute-api.us-west-1.amazonaws.com/dev/aacf-rides";
         let xhr = new XMLHttpRequest();
         xhr.open("POST", url, true);
         xhr.setRequestHeader("Content-Type", "application/json");
